@@ -1,10 +1,10 @@
 {
-  "name": "tui-chart",
+  "name": "hmm",
   "author": "NHN. FE Development Lab <dl_javascript@nhn.com>",
   "version": "3.11.2",
   "main": "dist/tui-chart",
   "license": "MIT",
-  "description": "TOAST UI Application: Chart",
+  "description": "a",
   "scripts": {
     "serve": "webpack-dev-server --inline --hot -d",
     "serve:ie8": "webpack-dev-server -d",
